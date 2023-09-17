@@ -1,0 +1,2134 @@
+.portfolio-TC-case {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  gap: 40px;
+  position: relative;
+  background-color: #ffffff;
+}
+
+.portfolio-TC-case .layout {
+  display: flex;
+  flex-direction: column;
+  width: 100%;
+  align-items: center;
+  gap: 32px;
+  position: relative;
+  flex: 0 0 auto;
+}
+
+.portfolio-TC-case .header {
+  display: flex;
+  flex-direction: column;
+  height: 464px;
+  align-items: center;
+  gap: 80px;
+  padding: 60px 0px 0px;
+  position: relative;
+  align-self: stretch;
+  width: 100%;
+  background-color: transparent;
+  background: linear-gradient(180deg, rgb(0, 159, 253) 0%, rgb(42, 42, 114) 100%);
+}
+
+.portfolio-TC-case .navigation {
+  display: inline-flex;
+  align-items: flex-start;
+  gap: 120px;
+  position: relative;
+  flex: 0 0 auto;
+}
+
+.portfolio-TC-case .div {
+  display: inline-flex;
+  flex-direction: column;
+  align-items: flex-start;
+  gap: 4px;
+  position: relative;
+  flex: 0 0 auto;
+}
+
+.portfolio-TC-case .text-wrapper {
+  position: relative;
+  width: fit-content;
+  margin-top: -1px;
+  font-family: "Poppins", Helvetica;
+  font-weight: 500;
+  color: var(--master-colors-black-gradient-white);
+  font-size: 18px;
+  letter-spacing: 0;
+  line-height: 20px;
+  white-space: nowrap;
+}
+
+.portfolio-TC-case .head {
+  display: flex;
+  flex-direction: column;
+  width: 786px;
+  align-items: center;
+  gap: 40px;
+  padding: 20px 0px 60px;
+  position: relative;
+  flex: 0 0 auto;
+}
+
+.portfolio-TC-case .text-wrapper-2 {
+  position: relative;
+  width: fit-content;
+  margin-top: -1px;
+  font-family: "Poppins", Helvetica;
+  font-weight: 500;
+  color: var(--master-colors-black-gradient-white);
+  font-size: 40px;
+  letter-spacing: 0;
+  line-height: 20px;
+  white-space: nowrap;
+}
+
+.portfolio-TC-case .subhead {
+  display: flex;
+  flex-direction: column;
+  width: 787px;
+  align-items: center;
+  gap: 20px;
+  position: relative;
+  flex: 0 0 auto;
+  margin-left: -0.5px;
+  margin-right: -0.5px;
+}
+
+.portfolio-TC-case .p {
+  position: relative;
+  width: 788px;
+  margin-top: -1px;
+  margin-left: -0.5px;
+  margin-right: -0.5px;
+  font-family: "Roboto", Helvetica;
+  font-weight: 400;
+  color: var(--ecommerce-app-colors-offwhite);
+  font-size: 20px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: 28px;
+}
+
+.portfolio-TC-case .yoganta {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 80px;
+  padding: 0px 0px 100px;
+  position: relative;
+  align-self: stretch;
+  width: 100%;
+  flex: 0 0 auto;
+}
+
+.portfolio-TC-case .layout-2 {
+  width: 1086px;
+  align-items: flex-start;
+  padding: 0px 20px;
+  display: flex;
+  flex-direction: column;
+  position: relative;
+  flex: 0 0 auto;
+}
+
+.portfolio-TC-case .main {
+  display: flex;
+  align-items: flex-start;
+  gap: 120px;
+  padding: 40px 0px 24px;
+  position: relative;
+  align-self: stretch;
+  width: 100%;
+  flex: 0 0 auto;
+  background-color: #ffffff;
+}
+
+.portfolio-TC-case .project-overview {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  gap: 29px;
+  position: relative;
+  flex: 1;
+  flex-grow: 1;
+}
+
+.portfolio-TC-case .div-wrapper {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  gap: 10px;
+  padding: 8px 12px;
+  position: relative;
+  flex: 0 0 auto;
+  border-radius: 8px;
+  overflow: hidden;
+  border: 1.3px solid;
+  border-color: transparent;
+  box-shadow: var(--shadow);
+  border-image: linear-gradient(to bottom, rgb(67, 137, 216), rgb(28, 58, 160)) 1;
+}
+
+.portfolio-TC-case .text-wrapper-3 {
+  position: relative;
+  width: fit-content;
+  margin-top: -1.3px;
+  font-family: var(--h4-medium-font-family);
+  font-weight: var(--h4-medium-font-weight);
+  color: #162d97;
+  font-size: var(--h4-medium-font-size);
+  text-align: center;
+  letter-spacing: var(--h4-medium-letter-spacing);
+  line-height: var(--h4-medium-line-height);
+  white-space: nowrap;
+  font-style: var(--h4-medium-font-style);
+}
+
+.portfolio-TC-case .text-wrapper-4 {
+  position: relative;
+  align-self: stretch;
+  font-family: var(--body-2-regular-font-family);
+  font-weight: var(--body-2-regular-font-weight);
+  color: var(--ecommerce-app-colors-secondary);
+  font-size: var(--body-2-regular-font-size);
+  letter-spacing: var(--body-2-regular-letter-spacing);
+  line-height: var(--body-2-regular-line-height);
+  font-style: var(--body-2-regular-font-style);
+}
+
+.portfolio-TC-case .roles {
+  display: inline-flex;
+  flex-direction: column;
+  align-items: flex-start;
+  gap: 32px;
+  position: relative;
+  flex: 0 0 auto;
+}
+
+.portfolio-TC-case .tag {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  gap: 10px;
+  padding: 8px 12px;
+  position: relative;
+  flex: 0 0 auto;
+  border-radius: 8px;
+  overflow: hidden;
+  box-shadow: var(--shadow);
+  background: linear-gradient(180deg, rgb(67, 137, 216) 0%, rgb(28, 58, 160) 100%);
+}
+
+.portfolio-TC-case .text-wrapper-5 {
+  position: relative;
+  width: fit-content;
+  margin-top: -1.3px;
+  font-family: var(--h4-medium-font-family);
+  font-weight: var(--h4-medium-font-weight);
+  color: var(--white);
+  font-size: var(--h4-medium-font-size);
+  text-align: center;
+  letter-spacing: var(--h4-medium-letter-spacing);
+  line-height: var(--h4-medium-line-height);
+  white-space: nowrap;
+  font-style: var(--h4-medium-font-style);
+}
+
+.portfolio-TC-case .my-role {
+  flex-direction: column;
+  width: 180px;
+  align-items: flex-start;
+  gap: 12px;
+  display: flex;
+  position: relative;
+  flex: 0 0 auto;
+}
+
+.portfolio-TC-case .element {
+  width: 140px;
+  align-items: center;
+  gap: 8px;
+  display: flex;
+  position: relative;
+  flex: 0 0 auto;
+}
+
+.portfolio-TC-case .img {
+  position: relative;
+  width: 24px;
+  height: 24px;
+}
+
+.portfolio-TC-case .text-wrapper-6 {
+  width: 86px;
+  height: 17px;
+  font-family: var(--body-2-regular-font-family);
+  font-weight: var(--body-2-regular-font-weight);
+  color: var(--gray-1);
+  font-size: var(--body-2-regular-font-size);
+  line-height: var(--body-2-regular-line-height);
+  position: relative;
+  letter-spacing: var(--body-2-regular-letter-spacing);
+  white-space: nowrap;
+  font-style: var(--body-2-regular-font-style);
+}
+
+.portfolio-TC-case .div-2 {
+  display: inline-flex;
+  align-items: center;
+  gap: 8px;
+  position: relative;
+  flex: 0 0 auto;
+}
+
+.portfolio-TC-case .text-wrapper-7 {
+  margin-top: -1px;
+  font-weight: var(--body-2-regular-font-weight);
+  color: var(--gray-1);
+  font-size: var(--body-2-regular-font-size);
+  line-height: var(--body-2-regular-line-height);
+  position: relative;
+  width: fit-content;
+  font-family: var(--body-2-regular-font-family);
+  letter-spacing: var(--body-2-regular-letter-spacing);
+  white-space: nowrap;
+  font-style: var(--body-2-regular-font-style);
+}
+
+.portfolio-TC-case .element-2 {
+  display: flex;
+  width: 139px;
+  align-items: center;
+  gap: 8px;
+  position: relative;
+  flex: 0 0 auto;
+}
+
+.portfolio-TC-case .text-wrapper-8 {
+  position: relative;
+  flex: 1;
+  margin-top: -1px;
+  font-family: var(--body-2-regular-font-family);
+  font-weight: var(--body-2-regular-font-weight);
+  color: var(--gray-1);
+  font-size: var(--body-2-regular-font-size);
+  letter-spacing: var(--body-2-regular-letter-spacing);
+  line-height: var(--body-2-regular-line-height);
+  font-style: var(--body-2-regular-font-style);
+}
+
+.portfolio-TC-case .div-3 {
+  display: inline-flex;
+  align-items: center;
+  gap: 16px;
+  position: relative;
+  flex: 0 0 auto;
+}
+
+.portfolio-TC-case .element-3 {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  gap: 20px;
+  padding: 40px 0px 24px;
+  position: relative;
+  align-self: stretch;
+  width: 100%;
+  flex: 0 0 auto;
+  background-color: #ffffff;
+}
+
+.portfolio-TC-case .problem {
+  display: flex;
+  align-items: flex-start;
+  gap: 120px;
+  position: relative;
+  align-self: stretch;
+  width: 100%;
+  flex: 0 0 auto;
+}
+
+.portfolio-TC-case .div-4 {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  gap: 20px;
+  position: relative;
+  flex: 1;
+  flex-grow: 1;
+}
+
+.portfolio-TC-case .steps {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  gap: 8px;
+  position: relative;
+  align-self: stretch;
+  width: 100%;
+  flex: 0 0 auto;
+}
+
+.portfolio-TC-case .text-wrapper-9 {
+  position: relative;
+  align-self: stretch;
+  margin-top: -1px;
+  font-family: var(--body-2-regular-font-family);
+  font-weight: var(--body-2-regular-font-weight);
+  color: var(--ecommerce-app-colors-secondary);
+  font-size: var(--body-2-regular-font-size);
+  letter-spacing: var(--body-2-regular-letter-spacing);
+  line-height: var(--body-2-regular-line-height);
+  font-style: var(--body-2-regular-font-style);
+}
+
+.portfolio-TC-case .frame {
+  position: relative;
+  width: 326.58px;
+  height: 259px;
+  margin-bottom: -39px;
+}
+
+.portfolio-TC-case .solution {
+  display: flex;
+  align-items: center;
+  gap: 160px;
+  padding: 60px 0px 0px;
+  position: relative;
+  align-self: stretch;
+  width: 100%;
+  flex: 0 0 auto;
+}
+
+.portfolio-TC-case .text-wrapper-10 {
+  position: relative;
+  align-self: stretch;
+  height: 21px;
+  margin-top: -1px;
+  font-family: var(--body-2-regular-font-family);
+  font-weight: var(--body-2-regular-font-weight);
+  color: var(--ecommerce-app-colors-secondary);
+  font-size: var(--body-2-regular-font-size);
+  letter-spacing: var(--body-2-regular-letter-spacing);
+  line-height: var(--body-2-regular-line-height);
+  white-space: nowrap;
+  font-style: var(--body-2-regular-font-style);
+}
+
+.portfolio-TC-case .text-wrapper-11 {
+  position: relative;
+  align-self: stretch;
+  height: 21px;
+  font-family: var(--body-2-regular-font-family);
+  font-weight: var(--body-2-regular-font-weight);
+  color: var(--ecommerce-app-colors-secondary);
+  font-size: var(--body-2-regular-font-size);
+  letter-spacing: var(--body-2-regular-letter-spacing);
+  line-height: var(--body-2-regular-line-height);
+  white-space: nowrap;
+  font-style: var(--body-2-regular-font-style);
+}
+
+.portfolio-TC-case .laptop {
+  position: relative;
+  width: 307.15px;
+  height: 205px;
+  overflow: hidden;
+}
+
+.portfolio-TC-case .overlap-group {
+  position: relative;
+  width: 270px;
+  height: 168px;
+  top: 19px;
+  left: 38px;
+}
+
+.portfolio-TC-case .group {
+  position: absolute;
+  width: 50px;
+  height: 80px;
+  top: 21px;
+  left: 214px;
+}
+
+.portfolio-TC-case .group-2 {
+  position: absolute;
+  width: 40px;
+  height: 68px;
+  top: 60px;
+  left: 230px;
+}
+
+.portfolio-TC-case .vector {
+  position: absolute;
+  width: 38px;
+  height: 66px;
+  top: 74px;
+  left: 220px;
+}
+
+.portfolio-TC-case .vector-2 {
+  position: absolute;
+  width: 35px;
+  height: 47px;
+  top: 102px;
+  left: 221px;
+}
+
+.portfolio-TC-case .vector-3 {
+  position: absolute;
+  width: 31px;
+  height: 33px;
+  top: 114px;
+  left: 223px;
+}
+
+.portfolio-TC-case .vector-4 {
+  position: absolute;
+  width: 39px;
+  height: 20px;
+  top: 136px;
+  left: 225px;
+}
+
+.portfolio-TC-case .vector-5 {
+  position: absolute;
+  width: 28px;
+  height: 17px;
+  top: 137px;
+  left: 227px;
+}
+
+.portfolio-TC-case .group-3 {
+  position: absolute;
+  width: 50px;
+  height: 80px;
+  top: 20px;
+  left: 6px;
+}
+
+.portfolio-TC-case .group-4 {
+  position: absolute;
+  width: 40px;
+  height: 68px;
+  top: 60px;
+  left: 0;
+}
+
+.portfolio-TC-case .vector-6 {
+  position: absolute;
+  width: 38px;
+  height: 66px;
+  top: 74px;
+  left: 12px;
+}
+
+.portfolio-TC-case .vector-7 {
+  position: absolute;
+  width: 35px;
+  height: 47px;
+  top: 102px;
+  left: 14px;
+}
+
+.portfolio-TC-case .vector-8 {
+  position: absolute;
+  width: 31px;
+  height: 33px;
+  top: 114px;
+  left: 16px;
+}
+
+.portfolio-TC-case .vector-9 {
+  position: absolute;
+  width: 39px;
+  height: 20px;
+  top: 136px;
+  left: 6px;
+}
+
+.portfolio-TC-case .vector-10 {
+  position: absolute;
+  width: 28px;
+  height: 17px;
+  top: 137px;
+  left: 15px;
+}
+
+.portfolio-TC-case .vector-11 {
+  position: absolute;
+  width: 187px;
+  height: 117px;
+  top: 40px;
+  left: 42px;
+}
+
+.portfolio-TC-case .vector-12 {
+  position: absolute;
+  width: 231px;
+  height: 12px;
+  top: 156px;
+  left: 20px;
+}
+
+.portfolio-TC-case .vector-13 {
+  position: absolute;
+  width: 73px;
+  height: 5px;
+  top: 156px;
+  left: 98px;
+}
+
+.portfolio-TC-case .vector-14 {
+  position: absolute;
+  width: 176px;
+  height: 107px;
+  top: 45px;
+  left: 47px;
+}
+
+.portfolio-TC-case .vector-15 {
+  position: absolute;
+  width: 176px;
+  height: 7px;
+  top: 45px;
+  left: 47px;
+}
+
+.portfolio-TC-case .vector-16 {
+  position: absolute;
+  width: 3px;
+  height: 3px;
+  top: 47px;
+  left: 50px;
+}
+
+.portfolio-TC-case .vector-17 {
+  position: absolute;
+  width: 3px;
+  height: 3px;
+  top: 47px;
+  left: 55px;
+}
+
+.portfolio-TC-case .vector-18 {
+  position: absolute;
+  width: 3px;
+  height: 3px;
+  top: 47px;
+  left: 60px;
+}
+
+.portfolio-TC-case .vector-19 {
+  position: absolute;
+  width: 176px;
+  height: 89px;
+  top: 52px;
+  left: 47px;
+}
+
+.portfolio-TC-case .vector-20 {
+  position: absolute;
+  width: 176px;
+  height: 11px;
+  top: 141px;
+  left: 47px;
+}
+
+.portfolio-TC-case .vector-21 {
+  position: absolute;
+  width: 153px;
+  height: 1px;
+  top: 145px;
+  left: 64px;
+}
+
+.portfolio-TC-case .vector-22 {
+  position: absolute;
+  width: 7px;
+  height: 7px;
+  top: 142px;
+  left: 53px;
+}
+
+.portfolio-TC-case .vector-23 {
+  position: absolute;
+  width: 3px;
+  height: 4px;
+  top: 144px;
+  left: 55px;
+}
+
+.portfolio-TC-case .vector-24 {
+  position: absolute;
+  width: 4px;
+  height: 4px;
+  top: 144px;
+  left: 77px;
+}
+
+.portfolio-TC-case .vector-25 {
+  position: absolute;
+  width: 125px;
+  height: 89px;
+  top: 52px;
+  left: 73px;
+}
+
+.portfolio-TC-case .vector-26 {
+  position: absolute;
+  width: 110px;
+  height: 3px;
+  top: 138px;
+  left: 88px;
+}
+
+.portfolio-TC-case .vector-27 {
+  position: absolute;
+  width: 45px;
+  height: 137px;
+  top: 0;
+  left: 98px;
+}
+
+.portfolio-TC-case .vector-28 {
+  position: absolute;
+  width: 17px;
+  height: 10px;
+  top: 129px;
+  left: 94px;
+}
+
+.portfolio-TC-case .vector-29 {
+  position: absolute;
+  width: 42px;
+  height: 54px;
+  top: 78px;
+  left: 108px;
+}
+
+.portfolio-TC-case .vector-30 {
+  position: absolute;
+  width: 26px;
+  height: 20px;
+  top: 58px;
+  left: 80px;
+}
+
+.portfolio-TC-case .vector-31 {
+  position: absolute;
+  width: 9px;
+  height: 12px;
+  top: 127px;
+  left: 184px;
+}
+
+.portfolio-TC-case .vector-32 {
+  position: absolute;
+  width: 48px;
+  height: 71px;
+  top: 60px;
+  left: 141px;
+}
+
+.portfolio-TC-case .vector-33 {
+  position: absolute;
+  width: 21px;
+  height: 22px;
+  top: 64px;
+  left: 78px;
+}
+
+.portfolio-TC-case .vector-34 {
+  position: absolute;
+  width: 40px;
+  height: 21px;
+  top: 60px;
+  left: 104px;
+}
+
+.portfolio-TC-case .vector-35 {
+  position: absolute;
+  width: 9px;
+  height: 36px;
+  top: 101px;
+  left: 208px;
+}
+
+.portfolio-TC-case .vector-36 {
+  position: absolute;
+  width: 14px;
+  height: 34px;
+  top: 101px;
+  left: 192px;
+}
+
+.portfolio-TC-case .vector-37 {
+  position: absolute;
+  width: 15px;
+  height: 41px;
+  top: 95px;
+  left: 212px;
+}
+
+.portfolio-TC-case .vector-38 {
+  position: absolute;
+  width: 8px;
+  height: 44px;
+  top: 91px;
+  left: 201px;
+}
+
+.portfolio-TC-case .vector-39 {
+  position: absolute;
+  width: 15px;
+  height: 10px;
+  top: 131px;
+  left: 202px;
+}
+
+.portfolio-TC-case .vector-40 {
+  position: absolute;
+  width: 17px;
+  height: 3px;
+  top: 129px;
+  left: 200px;
+}
+
+.portfolio-TC-case .vector-41 {
+  position: absolute;
+  width: 13px;
+  height: 9px;
+  top: 132px;
+  left: 204px;
+}
+
+.portfolio-TC-case .vector-42 {
+  position: absolute;
+  width: 9px;
+  height: 36px;
+  top: 101px;
+  left: 54px;
+}
+
+.portfolio-TC-case .vector-43 {
+  position: absolute;
+  width: 14px;
+  height: 34px;
+  top: 101px;
+  left: 64px;
+}
+
+.portfolio-TC-case .vector-44 {
+  position: absolute;
+  width: 15px;
+  height: 41px;
+  top: 95px;
+  left: 44px;
+}
+
+.portfolio-TC-case .vector-45 {
+  position: absolute;
+  width: 8px;
+  height: 44px;
+  top: 91px;
+  left: 61px;
+}
+
+.portfolio-TC-case .vector-46 {
+  position: absolute;
+  width: 15px;
+  height: 10px;
+  top: 131px;
+  left: 53px;
+}
+
+.portfolio-TC-case .vector-47 {
+  position: absolute;
+  width: 17px;
+  height: 3px;
+  top: 129px;
+  left: 52px;
+}
+
+.portfolio-TC-case .vector-48 {
+  position: absolute;
+  width: 13px;
+  height: 9px;
+  top: 132px;
+  left: 54px;
+}
+
+.portfolio-TC-case .group-5 {
+  position: absolute;
+  width: 61px;
+  height: 61px;
+  top: 68px;
+  left: 105px;
+}
+
+.portfolio-TC-case .YOGANTA-LOGO-dark {
+  position: absolute;
+  width: 30px;
+  height: 13px;
+  top: 55px;
+  left: 182px;
+  object-fit: cover;
+}
+
+.portfolio-TC-case .element-4 {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  padding: 40px 0px 24px;
+  position: relative;
+  align-self: stretch;
+  width: 100%;
+  flex: 0 0 auto;
+  background-color: #ffffff;
+}
+
+.portfolio-TC-case .problem-2 {
+  display: flex;
+  flex-direction: column;
+  width: 1046px;
+  height: 133px;
+  align-items: flex-start;
+  gap: 24px;
+  position: relative;
+}
+
+.portfolio-TC-case .i-started-my-project {
+  position: relative;
+  align-self: stretch;
+  height: 53px;
+  font-family: var(--body-2-regular-font-family);
+  font-weight: var(--body-2-regular-font-weight);
+  color: var(--ecommerce-app-colors-secondary);
+  font-size: var(--body-2-regular-font-size);
+  letter-spacing: var(--body-2-regular-letter-spacing);
+  line-height: var(--body-2-regular-line-height);
+  font-style: var(--body-2-regular-font-style);
+}
+
+.portfolio-TC-case .design-flowchart {
+  position: relative;
+  width: 981px;
+  height: 664.47px;
+}
+
+.portfolio-TC-case .overlap-group-2 {
+  position: absolute;
+  width: 959px;
+  height: 506px;
+  top: 83px;
+  left: 0;
+}
+
+.portfolio-TC-case .line {
+  position: absolute;
+  width: 107px;
+  height: 105px;
+  top: 198px;
+  left: 48px;
+}
+
+.portfolio-TC-case .line-2 {
+  top: 206px;
+  left: 503px;
+  position: absolute;
+  width: 107px;
+  height: 105px;
+}
+
+.portfolio-TC-case .line-3 {
+  position: absolute;
+  width: 111px;
+  height: 98px;
+  top: 251px;
+  left: 590px;
+}
+
+.portfolio-TC-case .line-4 {
+  position: absolute;
+  width: 672px;
+  height: 258px;
+  top: 248px;
+  left: 107px;
+}
+
+.portfolio-TC-case .line-5 {
+  position: absolute;
+  width: 719px;
+  height: 331px;
+  top: 0;
+  left: 241px;
+}
+
+.portfolio-TC-case .line-6 {
+  position: absolute;
+  width: 186px;
+  height: 151px;
+  top: 148px;
+  left: 262px;
+}
+
+.portfolio-TC-case .line-7 {
+  position: absolute;
+  width: 173px;
+  height: 148px;
+  top: 146px;
+  left: 722px;
+}
+
+.portfolio-TC-case .element-5 {
+  display: flex;
+  flex-direction: column;
+  width: 181px;
+  height: 66px;
+  align-items: center;
+  justify-content: center;
+  gap: 10px;
+  position: absolute;
+  top: 176px;
+  left: 168px;
+  border-radius: 8px;
+  background: linear-gradient(180deg, rgb(6, 35, 70) 0%, rgb(6, 35, 70) 43.28%, rgb(0, 186, 255) 97.44%);
+}
+
+.portfolio-TC-case .text-wrapper-12 {
+  position: relative;
+  width: 155px;
+  height: 24px;
+  font-family: var(--h3-medium-font-family);
+  font-weight: var(--h3-medium-font-weight);
+  color: #ffffff;
+  font-size: var(--h3-medium-font-size);
+  text-align: center;
+  letter-spacing: var(--h3-medium-letter-spacing);
+  line-height: var(--h3-medium-line-height);
+  white-space: nowrap;
+  font-style: var(--h3-medium-font-style);
+}
+
+.portfolio-TC-case .element-6 {
+  display: flex;
+  flex-direction: column;
+  width: 181px;
+  height: 66px;
+  align-items: center;
+  justify-content: center;
+  gap: 10px;
+  position: absolute;
+  top: 322px;
+  left: 400px;
+  border-radius: 8px;
+  background: linear-gradient(180deg, rgb(6, 35, 70) 0%, rgb(6, 35, 70) 43.28%, rgb(0, 186, 255) 97.44%);
+}
+
+.portfolio-TC-case .element-7 {
+  display: flex;
+  flex-direction: column;
+  width: 181px;
+  height: 66px;
+  align-items: center;
+  justify-content: center;
+  gap: 10px;
+  position: absolute;
+  top: 322px;
+  left: 0;
+  border-radius: 8px;
+  background: linear-gradient(180deg, rgb(6, 35, 70) 0%, rgb(6, 35, 70) 43.28%, rgb(0, 186, 255) 97.44%);
+}
+
+.portfolio-TC-case .element-8 {
+  display: flex;
+  flex-direction: column;
+  width: 181px;
+  height: 66px;
+  align-items: center;
+  justify-content: center;
+  gap: 10px;
+  position: absolute;
+  top: 417px;
+  left: 799px;
+  border-radius: 8px;
+  background: linear-gradient(180deg, rgb(6, 35, 70) 0%, rgb(6, 35, 70) 43.28%, rgb(0, 186, 255) 97.44%);
+}
+
+.portfolio-TC-case .element-9 {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  gap: 32px;
+  padding: 40px 0px 24px;
+  position: relative;
+  align-self: stretch;
+  width: 100%;
+  flex: 0 0 auto;
+  background-color: #ffffff;
+}
+
+.portfolio-TC-case .problem-3 {
+  display: flex;
+  flex-direction: column;
+  width: 1046px;
+  height: 128px;
+  align-items: flex-start;
+  gap: 24px;
+  position: relative;
+}
+
+.portfolio-TC-case .empathy-map {
+  position: relative;
+  width: 1046px;
+  height: 1013.96px;
+  object-fit: cover;
+}
+
+.portfolio-TC-case .element-10 {
+  align-items: center;
+  justify-content: center;
+  gap: 20px;
+  padding: 60px 0px 24px;
+  align-self: stretch;
+  width: 100%;
+  background-color: #ffffff;
+  display: flex;
+  flex-direction: column;
+  position: relative;
+  flex: 0 0 auto;
+}
+
+.portfolio-TC-case .problem-4 {
+  display: flex;
+  flex-direction: column;
+  width: 1046px;
+  height: 179px;
+  align-items: flex-start;
+  gap: 32px;
+  position: relative;
+}
+
+.portfolio-TC-case .persona {
+  position: relative;
+  width: 1046px;
+  height: 838.72px;
+  object-fit: cover;
+}
+
+.portfolio-TC-case .element-11 {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  gap: 20px;
+  padding: 60px 0px 24px;
+  position: relative;
+  align-self: stretch;
+  width: 100%;
+  flex: 0 0 auto;
+  background-color: #ffffff;
+}
+
+.portfolio-TC-case .cards {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 56px;
+  position: relative;
+  align-self: stretch;
+  width: 100%;
+  flex: 0 0 auto;
+}
+
+.portfolio-TC-case .row {
+  display: inline-flex;
+  align-items: flex-start;
+  gap: 70px;
+  position: relative;
+  flex: 0 0 auto;
+}
+
+.portfolio-TC-case .card {
+  display: flex;
+  flex-direction: column;
+  width: 230px;
+  align-items: center;
+  justify-content: center;
+  gap: 10px;
+  padding: 32px 8px;
+  position: relative;
+  align-self: stretch;
+  border-radius: 16px 0px 16px 0px;
+  background: linear-gradient(180deg, rgb(110, 192, 255) 0%, rgb(101, 150, 246) 100%);
+}
+
+.portfolio-TC-case .text-wrapper-13 {
+  position: relative;
+  align-self: stretch;
+  font-family: var(--h6-regular-font-family);
+  font-weight: var(--h6-regular-font-weight);
+  color: var(--gray-1);
+  font-size: var(--h6-regular-font-size);
+  text-align: center;
+  letter-spacing: var(--h6-regular-letter-spacing);
+  line-height: var(--h6-regular-line-height);
+  font-style: var(--h6-regular-font-style);
+}
+
+.portfolio-TC-case .card-2 {
+  display: flex;
+  flex-direction: column;
+  width: 230px;
+  align-items: center;
+  justify-content: center;
+  gap: 10px;
+  padding: 32px 12px;
+  position: relative;
+  align-self: stretch;
+  border-radius: 16px 0px 16px 0px;
+  background: linear-gradient(180deg, rgb(110, 192, 255) 0%, rgb(101, 150, 246) 100%);
+}
+
+.portfolio-TC-case .card-3 {
+  display: flex;
+  flex-direction: column;
+  width: 230px;
+  height: 160px;
+  align-items: center;
+  justify-content: center;
+  gap: 10px;
+  padding: 32px 8px;
+  position: relative;
+  border-radius: 16px 0px 16px 0px;
+  background: linear-gradient(180deg, rgb(110, 192, 255) 0%, rgb(101, 150, 246) 100%);
+}
+
+.portfolio-TC-case .text-wrapper-14 {
+  align-self: stretch;
+  font-weight: var(--body-2-regular-font-weight);
+  color: var(--gray-1);
+  font-size: var(--body-2-regular-font-size);
+  text-align: center;
+  line-height: var(--body-2-regular-line-height);
+  position: relative;
+  font-family: var(--body-2-regular-font-family);
+  letter-spacing: var(--body-2-regular-letter-spacing);
+  font-style: var(--body-2-regular-font-style);
+}
+
+.portfolio-TC-case .div-5 {
+  display: inline-flex;
+  align-items: flex-start;
+  gap: 56px;
+  position: relative;
+  flex: 0 0 auto;
+}
+
+.portfolio-TC-case .row-2 {
+  display: inline-flex;
+  flex-direction: column;
+  align-items: flex-start;
+  gap: 24px;
+  position: relative;
+  flex: 0 0 auto;
+}
+
+.portfolio-TC-case .header-2 {
+  display: flex;
+  flex-direction: column;
+  width: 123px;
+  height: 47px;
+  align-items: center;
+  justify-content: center;
+  gap: 10px;
+  position: relative;
+  border-radius: 8px;
+  background: linear-gradient(180deg, rgb(6, 35, 70) 0%, rgb(6, 35, 70) 43.28%, rgb(0, 186, 255) 97.44%);
+}
+
+.portfolio-TC-case .text-wrapper-15 {
+  position: relative;
+  width: fit-content;
+  font-family: var(--body-1-medium-font-family);
+  font-weight: var(--body-1-medium-font-weight);
+  color: #ffffff;
+  font-size: var(--body-1-medium-font-size);
+  text-align: center;
+  letter-spacing: var(--body-1-medium-letter-spacing);
+  line-height: var(--body-1-medium-line-height);
+  white-space: nowrap;
+  font-style: var(--body-1-medium-font-style);
+}
+
+.portfolio-TC-case .row-3 {
+  display: inline-flex;
+  flex-direction: column;
+  align-items: flex-start;
+  gap: 16px;
+  position: relative;
+  flex: 0 0 auto;
+}
+
+.portfolio-TC-case .child {
+  display: flex;
+  flex-direction: column;
+  width: 123px;
+  height: 47px;
+  align-items: center;
+  justify-content: center;
+  gap: 10px;
+  position: relative;
+  border-radius: 8px;
+  border: 2px solid;
+  border-color: transparent;
+  border-image: linear-gradient(to bottom, rgb(6, 35, 70), rgb(6, 35, 70) 43.28%, rgb(0, 186, 255) 97.44%) 1;
+}
+
+.portfolio-TC-case .text-wrapper-16 {
+  position: relative;
+  width: fit-content;
+  font-family: var(--caption-1-regular-font-family);
+  font-weight: var(--caption-1-regular-font-weight);
+  color: var(--gray-1);
+  font-size: var(--caption-1-regular-font-size);
+  text-align: center;
+  letter-spacing: var(--caption-1-regular-letter-spacing);
+  line-height: var(--caption-1-regular-line-height);
+  white-space: nowrap;
+  font-style: var(--caption-1-regular-font-style);
+}
+
+.portfolio-TC-case .text-wrapper-17 {
+  position: relative;
+  width: fit-content;
+  font-family: var(--caption-1-regular-font-family);
+  font-weight: var(--caption-1-regular-font-weight);
+  color: var(--gray-1);
+  font-size: var(--caption-1-regular-font-size);
+  text-align: center;
+  letter-spacing: var(--caption-1-regular-letter-spacing);
+  line-height: var(--caption-1-regular-line-height);
+  font-style: var(--caption-1-regular-font-style);
+}
+
+.portfolio-TC-case .text-wrapper-18 {
+  position: relative;
+  width: 101px;
+  font-family: "Montserrat", Helvetica;
+  font-weight: 400;
+  color: var(--gray-1);
+  font-size: 12px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: 17.9px;
+}
+
+.portfolio-TC-case .font-colors {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  gap: 50px;
+  padding: 8px 0px 0px;
+  align-self: stretch;
+  width: 100%;
+  position: relative;
+  flex: 0 0 auto;
+}
+
+.portfolio-TC-case .element-12 {
+  display: inline-flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  position: relative;
+  flex: 0 0 auto;
+}
+
+.portfolio-TC-case .element-13 {
+  position: relative;
+  width: 153.11px;
+  height: 134px;
+}
+
+.portfolio-TC-case .overlap {
+  position: absolute;
+  width: 152px;
+  height: 134px;
+  top: 0;
+  left: 0;
+}
+
+.portfolio-TC-case .line-8 {
+  position: absolute;
+  width: 152px;
+  height: 1px;
+  top: 14px;
+  left: 0;
+  object-fit: cover;
+}
+
+.portfolio-TC-case .line-9 {
+  position: absolute;
+  width: 1px;
+  height: 134px;
+  top: 0;
+  left: 0;
+  object-fit: cover;
+}
+
+.portfolio-TC-case .overlap-group-3 {
+  position: absolute;
+  width: 153px;
+  height: 134px;
+  top: 0;
+  left: 1px;
+}
+
+.portfolio-TC-case .frame-2 {
+  display: flex;
+  flex-direction: column;
+  width: 152px;
+  height: 100px;
+  align-items: center;
+  justify-content: center;
+  gap: 10px;
+  position: absolute;
+  top: 15px;
+  left: 0;
+  background-color: #ffffff;
+  box-shadow: 0px 4px 4px #00000040;
+}
+
+.portfolio-TC-case .text-wrapper-19 {
+  position: relative;
+  width: 52px;
+  height: 20px;
+  font-family: "Prompt", Helvetica;
+  font-weight: 400;
+  color: var(--gray-1);
+  font-size: 28px;
+  letter-spacing: 13.72px;
+  line-height: 72.2px;
+  white-space: nowrap;
+}
+
+.portfolio-TC-case .line-10 {
+  position: absolute;
+  width: 1px;
+  height: 134px;
+  top: 0;
+  left: 152px;
+  object-fit: cover;
+}
+
+.portfolio-TC-case .font {
+  display: inline-flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 8px;
+  position: relative;
+  flex: 0 0 auto;
+  margin-top: -3px;
+}
+
+.portfolio-TC-case .text-wrapper-20 {
+  position: relative;
+  width: fit-content;
+  margin-top: -1px;
+  font-family: var(--caption-1-regular-font-family);
+  font-weight: var(--caption-1-regular-font-weight);
+  color: var(--gray-1);
+  font-size: var(--caption-1-regular-font-size);
+  letter-spacing: var(--caption-1-regular-letter-spacing);
+  line-height: var(--caption-1-regular-line-height);
+  white-space: nowrap;
+  font-style: var(--caption-1-regular-font-style);
+}
+
+.portfolio-TC-case .text-wrapper-21 {
+  position: relative;
+  width: fit-content;
+  font-family: "Roboto", Helvetica;
+  font-weight: 400;
+  color: var(--gray-1);
+  font-size: 10px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: 16px;
+  white-space: nowrap;
+}
+
+.portfolio-TC-case .text-wrapper-22 {
+  font-family: "Prompt", Helvetica;
+  font-weight: 500;
+  position: relative;
+  width: 52px;
+  height: 20px;
+  color: var(--gray-1);
+  font-size: 28px;
+  letter-spacing: 13.72px;
+  line-height: 72.2px;
+  white-space: nowrap;
+}
+
+.portfolio-TC-case .text-wrapper-23 {
+  font-family: "Helvetica-Regular", Helvetica;
+  font-weight: 400;
+  position: relative;
+  width: 52px;
+  height: 20px;
+  color: var(--gray-1);
+  font-size: 28px;
+  letter-spacing: 13.72px;
+  line-height: 72.2px;
+  white-space: nowrap;
+}
+
+.portfolio-TC-case .color {
+  display: inline-flex;
+  flex-direction: column;
+  height: 160px;
+  align-items: flex-start;
+  position: relative;
+  flex: 0 0 auto;
+  box-shadow: var(--shadow);
+}
+
+.portfolio-TC-case .top {
+  position: relative;
+  height: 100px;
+  border-radius: 12px 12px 0px 0px;
+  background: linear-gradient(180deg, rgb(0, 186, 255) 0%, rgb(24, 160, 251) 100%);
+}
+
+.portfolio-TC-case .bottom {
+  display: flex;
+  flex-direction: column;
+  height: 60px;
+  align-items: center;
+  justify-content: center;
+  gap: 10px;
+  position: relative;
+  align-self: stretch;
+  width: 100%;
+  background-color: #f6f7ffcc;
+  border-radius: 0px 0px 12px 12px;
+}
+
+.portfolio-TC-case .linear-color {
+  display: inline-flex;
+  flex-direction: column;
+  align-items: flex-start;
+  gap: 8px;
+  position: relative;
+  flex: 0 0 auto;
+}
+
+.portfolio-TC-case .text-wrapper-24 {
+  position: relative;
+  align-self: stretch;
+  height: 7px;
+  margin-top: -1px;
+  font-family: var(--caption-1-regular-font-family);
+  font-weight: var(--caption-1-regular-font-weight);
+  color: var(--gray-1);
+  font-size: var(--caption-1-regular-font-size);
+  text-align: center;
+  letter-spacing: var(--caption-1-regular-letter-spacing);
+  line-height: var(--caption-1-regular-line-height);
+  white-space: nowrap;
+  font-style: var(--caption-1-regular-font-style);
+}
+
+.portfolio-TC-case .text-wrapper-25 {
+  position: relative;
+  align-self: stretch;
+  height: 8px;
+  font-family: var(--label-font-family);
+  font-weight: var(--label-font-weight);
+  color: var(--gray-1);
+  font-size: var(--label-font-size);
+  text-align: center;
+  letter-spacing: var(--label-letter-spacing);
+  line-height: var(--label-line-height);
+  white-space: nowrap;
+  font-style: var(--label-font-style);
+}
+
+.portfolio-TC-case .text-wrapper-26 {
+  position: relative;
+  align-self: stretch;
+  height: 9px;
+  font-family: var(--label-font-family);
+  font-weight: var(--label-font-weight);
+  color: var(--gray-1);
+  font-size: var(--label-font-size);
+  text-align: center;
+  letter-spacing: var(--label-letter-spacing);
+  line-height: var(--label-line-height);
+  white-space: nowrap;
+  font-style: var(--label-font-style);
+}
+
+.portfolio-TC-case .top-2 {
+  background-color: #ff8577;
+  position: relative;
+  height: 100px;
+  border-radius: 12px 12px 0px 0px;
+}
+
+.portfolio-TC-case .top-3 {
+  background-color: #fee556;
+  position: relative;
+  height: 100px;
+  border-radius: 12px 12px 0px 0px;
+}
+
+.portfolio-TC-case .top-4 {
+  background-color: #aaffc7;
+  position: relative;
+  height: 100px;
+  border-radius: 12px 12px 0px 0px;
+}
+
+.portfolio-TC-case .top-5 {
+  background-color: #062346;
+  position: relative;
+  height: 100px;
+  border-radius: 12px 12px 0px 0px;
+}
+
+.portfolio-TC-case .element-14 {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 20px;
+  padding: 60px 0px 24px;
+  position: relative;
+  align-self: stretch;
+  width: 100%;
+  flex: 0 0 auto;
+  background-color: #ffffff;
+}
+
+.portfolio-TC-case .wireframe {
+  height: 3489px;
+  position: relative;
+  width: 998px;
+}
+
+.portfolio-TC-case .element-15 {
+  position: absolute;
+  width: 457px;
+  height: 2010px;
+  top: 0;
+  left: -9px;
+}
+
+.portfolio-TC-case .line-11 {
+  position: absolute;
+  width: 107px;
+  height: 105px;
+  top: 25px;
+  left: 13px;
+}
+
+.portfolio-TC-case .homepage-text-rect {
+  position: absolute;
+  width: 214px;
+  height: 32px;
+  top: 20px;
+  left: 141px;
+}
+
+.portfolio-TC-case .overlap-group-4 {
+  position: relative;
+  width: 195px;
+  height: 27px;
+  top: 5px;
+  left: 19px;
+}
+
+.portfolio-TC-case .rectangle {
+  left: 145px;
+  position: absolute;
+  width: 50px;
+  height: 26px;
+  top: 1px;
+  background-color: #74b4ffe6;
+  border-radius: 2px;
+}
+
+.portfolio-TC-case .text-wrapper-27 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  font-family: var(--h5-medium-font-family);
+  font-weight: var(--h5-medium-font-weight);
+  color: var(--gray-1);
+  font-size: var(--h5-medium-font-size);
+  letter-spacing: var(--h5-medium-letter-spacing);
+  line-height: var(--h5-medium-line-height);
+  white-space: nowrap;
+  font-style: var(--h5-medium-font-style);
+}
+
+.portfolio-TC-case .homepage {
+  width: 420px;
+  height: 1871px;
+  left: 18px;
+  position: absolute;
+  top: 139px;
+  object-fit: cover;
+}
+
+.portfolio-TC-case .element-16 {
+  position: absolute;
+  width: 450px;
+  height: 1676px;
+  top: 0;
+  left: 538px;
+}
+
+.portfolio-TC-case .line-12 {
+  position: absolute;
+  width: 107px;
+  height: 105px;
+  top: 25px;
+  left: 330px;
+}
+
+.portfolio-TC-case .careers-text-rect {
+  position: absolute;
+  width: 184px;
+  height: 30px;
+  top: 22px;
+  left: 126px;
+}
+
+.portfolio-TC-case .overlap-group-5 {
+  position: relative;
+  width: 166px;
+  height: 27px;
+  top: 3px;
+  left: 18px;
+}
+
+.portfolio-TC-case .rectangle-2 {
+  left: 116px;
+  position: absolute;
+  width: 50px;
+  height: 26px;
+  top: 1px;
+  background-color: #74b4ffe6;
+  border-radius: 2px;
+}
+
+.portfolio-TC-case .careers {
+  position: absolute;
+  width: 420px;
+  height: 1526px;
+  top: 150px;
+  left: 15px;
+  object-fit: cover;
+}
+
+.portfolio-TC-case .element-17 {
+  position: absolute;
+  width: 438px;
+  height: 1743px;
+  top: 1720px;
+  left: 538px;
+}
+
+.portfolio-TC-case .overlap-2 {
+  width: 435px;
+  height: 1744px;
+  position: absolute;
+  top: 25px;
+  left: 13px;
+}
+
+.portfolio-TC-case .line-13 {
+  position: absolute;
+  width: 107px;
+  height: 105px;
+  top: 0;
+  left: 0;
+}
+
+.portfolio-TC-case .about-us {
+  position: absolute;
+  width: 420px;
+  height: 1640px;
+  top: 104px;
+  left: 15px;
+  object-fit: cover;
+}
+
+.portfolio-TC-case .about-us-text-rect {
+  position: absolute;
+  width: 203px;
+  height: 32px;
+  top: 18px;
+  left: 141px;
+}
+
+.portfolio-TC-case .overlap-group-6 {
+  position: relative;
+  width: 186px;
+  height: 26px;
+  top: 5px;
+  left: 17px;
+}
+
+.portfolio-TC-case .rectangle-3 {
+  position: absolute;
+  width: 50px;
+  height: 26px;
+  top: 0;
+  left: 136px;
+  background-color: #74b4ffe6;
+  border-radius: 2px;
+}
+
+.portfolio-TC-case .text-wrapper-28 {
+  position: absolute;
+  top: 1px;
+  left: 0;
+  font-family: var(--h5-medium-font-family);
+  font-weight: var(--h5-medium-font-weight);
+  color: var(--gray-1);
+  font-size: var(--h5-medium-font-size);
+  letter-spacing: var(--h5-medium-letter-spacing);
+  line-height: var(--h5-medium-line-height);
+  white-space: nowrap;
+  font-style: var(--h5-medium-font-style);
+}
+
+.portfolio-TC-case .element-18 {
+  position: absolute;
+  width: 443px;
+  height: 981px;
+  top: 2060px;
+  left: 9px;
+}
+
+.portfolio-TC-case .overlap-3 {
+  position: absolute;
+  width: 429px;
+  height: 1028px;
+  top: 25px;
+  left: 0;
+}
+
+.portfolio-TC-case .line-14 {
+  top: 0;
+  left: 322px;
+  position: absolute;
+  width: 107px;
+  height: 105px;
+}
+
+.portfolio-TC-case .contact-us {
+  position: absolute;
+  width: 420px;
+  height: 923px;
+  top: 104px;
+  left: 0;
+  object-fit: cover;
+}
+
+.portfolio-TC-case .div-6 {
+  top: 22px;
+  left: 118px;
+  position: absolute;
+  width: 184px;
+  height: 30px;
+}
+
+.portfolio-TC-case .overlap-group-7 {
+  position: relative;
+  width: 200px;
+  height: 26px;
+  top: 4px;
+  left: -16px;
+}
+
+.portfolio-TC-case .rectangle-4 {
+  position: absolute;
+  top: 0;
+  left: 150px;
+  width: 50px;
+  height: 26px;
+  background-color: #74b4ffe6;
+  border-radius: 2px;
+}
+
+.portfolio-TC-case .element-19 {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 20px;
+  padding: 60px 0px 0px;
+  position: relative;
+  align-self: stretch;
+  width: 100%;
+  flex: 0 0 auto;
+  background-color: #ffffff;
+}
+
+.portfolio-TC-case .problem-5 {
+  display: flex;
+  flex-direction: column;
+  width: 1046px;
+  align-items: flex-start;
+  gap: 24px;
+  position: relative;
+  flex: 0 0 auto;
+}
+
+.portfolio-TC-case .wireframe-2 {
+  height: 3869px;
+  position: relative;
+  width: 998px;
+}
+
+.portfolio-TC-case .element-20 {
+  position: absolute;
+  width: 443px;
+  height: 2639px;
+  top: 0;
+  left: -9px;
+}
+
+.portfolio-TC-case .homepage-2 {
+  width: 366px;
+  height: 2500px;
+  left: 46px;
+  position: absolute;
+  top: 139px;
+  object-fit: cover;
+}
+
+.portfolio-TC-case .overlap-4 {
+  position: absolute;
+  width: 450px;
+  height: 3132px;
+  top: 0;
+  left: 538px;
+}
+
+.portfolio-TC-case .element-21 {
+  position: absolute;
+  width: 450px;
+  height: 1676px;
+  top: 0;
+  left: 0;
+}
+
+.portfolio-TC-case .overlap-group-8 {
+  position: relative;
+  width: 151px;
+  height: 27px;
+  top: 3px;
+  left: 33px;
+}
+
+.portfolio-TC-case .rectangle-5 {
+  position: absolute;
+  top: 1px;
+  left: 101px;
+  width: 50px;
+  height: 26px;
+  background-color: #74b4ffe6;
+  border-radius: 2px;
+}
+
+.portfolio-TC-case .element-22 {
+  position: absolute;
+  width: 438px;
+  height: 1743px;
+  top: 1389px;
+  left: 0;
+}
+
+.portfolio-TC-case .overlap-5 {
+  width: 375px;
+  height: 1337px;
+  position: absolute;
+  top: 25px;
+  left: 13px;
+}
+
+.portfolio-TC-case .yoganta-cure {
+  position: absolute;
+  width: 328px;
+  height: 1259px;
+  top: 78px;
+  left: 47px;
+  object-fit: cover;
+}
+
+.portfolio-TC-case .overlap-group-wrapper {
+  position: absolute;
+  width: 186px;
+  height: 26px;
+  top: 20px;
+  left: 130px;
+}
+
+.portfolio-TC-case .overlap-group-9 {
+  position: relative;
+  height: 26px;
+}
+
+.portfolio-TC-case .yoga-at-home {
+  position: absolute;
+  width: 387px;
+  height: 1109px;
+  top: 129px;
+  left: 32px;
+}
+
+.portfolio-TC-case .overlap-6 {
+  position: absolute;
+  width: 443px;
+  height: 1176px;
+  top: 2693px;
+  left: -9px;
+}
+
+.portfolio-TC-case .yoga-live-page {
+  position: absolute;
+  width: 366px;
+  height: 1023px;
+  top: 153px;
+  left: 34px;
+  object-fit: cover;
+}
+
+.portfolio-TC-case .element-23 {
+  position: absolute;
+  width: 443px;
+  height: 1176px;
+  top: 0;
+  left: 0;
+}
+
+.portfolio-TC-case .line-15 {
+  top: 25px;
+  left: 322px;
+  position: absolute;
+  width: 107px;
+  height: 105px;
+}
+
+.portfolio-TC-case .rectangle-wrapper {
+  top: 0;
+  left: 0;
+  position: absolute;
+  width: 184px;
+  height: 30px;
+}
+
+.portfolio-TC-case .rectangle-6 {
+  position: relative;
+  top: 4px;
+  left: 134px;
+  width: 50px;
+  height: 26px;
+  background-color: #74b4ffe6;
+  border-radius: 2px;
+}
+
+.portfolio-TC-case .text-wrapper-29 {
+  position: absolute;
+  top: 5px;
+  left: 43px;
+  font-family: var(--h5-medium-font-family);
+  font-weight: var(--h5-medium-font-weight);
+  color: var(--gray-1);
+  font-size: var(--h5-medium-font-size);
+  letter-spacing: var(--h5-medium-letter-spacing);
+  line-height: var(--h5-medium-line-height);
+  white-space: nowrap;
+  font-style: var(--h5-medium-font-style);
+}
+
+.portfolio-TC-case .footer {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 20px 56px;
+  position: relative;
+  align-self: stretch;
+  width: 100%;
+  flex: 0 0 auto;
+  background-color: transparent;
+  background: linear-gradient(180deg, rgb(0, 159, 253) 0%, rgb(42, 42, 114) 100%);
+}
+
+.portfolio-TC-case .contact {
+  display: inline-flex;
+  align-items: flex-start;
+  gap: 40px;
+  position: relative;
+  flex: 0 0 auto;
+}
+
+.portfolio-TC-case .text-wrapper-30 {
+  position: relative;
+  width: fit-content;
+  font-family: "Roboto", Helvetica;
+  font-weight: 400;
+  color: var(--master-colors-black-gradient-white);
+  font-size: 18px;
+  letter-spacing: 0;
+  line-height: 20px;
+  white-space: nowrap;
+}
+
+.portfolio-TC-case .icons {
+  display: inline-flex;
+  align-items: center;
+  justify-content: flex-end;
+  gap: 32px;
+  position: relative;
+  flex: 0 0 auto;
+}
+
+.portfolio-TC-case .img-2 {
+  position: relative;
+  width: 32px;
+  height: 32px;
+}
+
+.portfolio-TC-case .navigation-2 {
+  display: inline-flex;
+  align-items: flex-start;
+  gap: 60px;
+  position: relative;
+  flex: 0 0 auto;
+}
+
+.portfolio-TC-case .text-wrapper-31 {
+  width: fit-content;
+  margin-top: -1px;
+  font-family: "Roboto", Helvetica;
+  font-weight: 400;
+  color: var(--master-colors-black-gradient-white);
+  font-size: 18px;
+  line-height: 20px;
+  position: relative;
+  letter-spacing: 0;
+  white-space: nowrap;
+}
